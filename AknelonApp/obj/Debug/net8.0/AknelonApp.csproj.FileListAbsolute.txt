@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\bin\Debug\net8.0\AknelonApp.exe
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\bin\Debug\net8.0\AknelonApp.deps.json
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\bin\Debug\net8.0\AknelonApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\bin\Debug\net8.0\AknelonApp.dll
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\bin\Debug\net8.0\AknelonApp.pdb
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.sourcelink.json
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.dll
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\refint\AknelonApp.dll
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.pdb
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\AknelonApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AkvelonTask\AknelonApp\obj\Debug\net8.0\ref\AknelonApp.dll

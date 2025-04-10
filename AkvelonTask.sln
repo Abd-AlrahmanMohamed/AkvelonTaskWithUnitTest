@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AknelonApp", "AknelonApp\AknelonApp.csproj", "{B12C5F7E-C58F-41D3-8DAA-AA873E3F11D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{C0A8B20A-B25B-4033-8F82-1085BF1BA9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12C5F7E-C58F-41D3-8DAA-AA873E3F11D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12C5F7E-C58F-41D3-8DAA-AA873E3F11D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12C5F7E-C58F-41D3-8DAA-AA873E3F11D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12C5F7E-C58F-41D3-8DAA-AA873E3F11D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A8B20A-B25B-4033-8F82-1085BF1BA9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A8B20A-B25B-4033-8F82-1085BF1BA9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A8B20A-B25B-4033-8F82-1085BF1BA9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A8B20A-B25B-4033-8F82-1085BF1BA9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
